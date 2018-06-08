@@ -1,0 +1,14 @@
+@import "public";
+$width:1000px;
+.top{
+	width:$width;
+	height:100px;
+	background:#ccc;
+	margin:0 auto;
+}
+.header{
+	width:$width;
+	height:100px;
+	background:orange;
+	margin:0 auto;
+}

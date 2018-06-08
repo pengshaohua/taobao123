@@ -1,0 +1,15 @@
+* {
+  padding: 0px;
+  margin: 0px; }
+
+.top {
+  width: 1000px;
+  height: 100px;
+  background: #ccc;
+  margin: 0 auto; }
+
+.header {
+  width: 1000px;
+  height: 100px;
+  background: orange;
+  margin: 0 auto; }
